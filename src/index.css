@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+	background-color: #111827;
+	color: white;
+}
+
+.creature-card {
+	opacity: 0;
+	transition: opacity 0.5s ease-in-out;
+}
+
+.creature-card.show {
+	opacity: 1;
+}
+
+.creature-nature {
+	background-image: url("../src/assets/natureBg.svg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
