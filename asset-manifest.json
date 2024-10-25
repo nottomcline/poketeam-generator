@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/poketeam-generator/static/css/main.ce89e22c.css",
+    "main.js": "/poketeam-generator/static/js/main.f94f3b14.js",
+    "static/js/453.045efee1.chunk.js": "/poketeam-generator/static/js/453.045efee1.chunk.js",
+    "static/media/pokeball.svg": "/poketeam-generator/static/media/pokeball.3cf8510b44a7330d7d50381c31d45b31.svg",
+    "index.html": "/poketeam-generator/index.html",
+    "static/media/natureBg.svg": "/poketeam-generator/static/media/natureBg.58bc33af4772ff5ddcfb.svg",
+    "main.ce89e22c.css.map": "/poketeam-generator/static/css/main.ce89e22c.css.map",
+    "main.f94f3b14.js.map": "/poketeam-generator/static/js/main.f94f3b14.js.map",
+    "453.045efee1.chunk.js.map": "/poketeam-generator/static/js/453.045efee1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ce89e22c.css",
+    "static/js/main.f94f3b14.js"
+  ]
+}
